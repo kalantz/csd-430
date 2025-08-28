@@ -1,0 +1,33 @@
+/* Kypton Lantz
+  August 27, 2025
+  Module 4 Assignment: JavaBean
+*/
+
+/* This is the CSS file for the FavoriteMovies.jsp file. */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: #f4f4f4;
+}
+
+h1 {
+  color: #333;
+}
+
+table {
+  border-collapse: collapse;
+  width: 70%;
+  background-color: #fff;
+}
+
+th, td {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+th {
+  background-color: #333;
+  color: #fff;
+}
