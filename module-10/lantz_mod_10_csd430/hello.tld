@@ -1,0 +1,16 @@
+<!--
+  Kypton Lantz
+  September 29, 2025
+  CSD430-O307 Server Side Development (2261-DD)
+  Module 10 Assignment: Creating Custom Tags
+-->
+
+<tag>
+    <name>hello</name>
+    <tag-class>HelloTag</tag-class>
+    <body-content>empty</body-content>
+    <attribute>
+        <name>name</name>
+        <required>false</required>
+    </attribute>
+</tag>
